@@ -1,0 +1,22 @@
+Un peque˜no negocio de Arepas ubicado en la ciudad de Tulua, vende tres tipos de arepas:
+arepas con todo, arepas con morcilla y arepas para el beb´e. Este peque˜no negocio es
+atendido por una sola persona y se encuentra el siguiente comportamiento de los clientes:
+1. Los clientes llegan de acuerdo a una distribuci´on exponencial con media 4 minutos por
+cada cliente.
+2. 15 % de los clientes se acerca y no realiza ninguna compra y utiliza el empleado durante
+un tiempo de acuerdo a una distribuci´on exponencial con media 1,5 minutos
+3. 35 % de los clientes compra arepas con todo, las cuales tienen una utilidad de 750
+y utilizan al empleado un tiempo de acuerdo a una distribuci´on uniforme entre 5 y 10
+minutos.
+4. 25 % de los clientes compra arepas para el beb´e, las cuales tienen una utilidad de 550
+y utilizan al empleado un tiempo de acuerdo a una distribuci´on uniforme entre 3 y 7
+minutos
+5. 25 % de los clientes compra arepas con morcilla las cuales tienen una utilidad de 500
+y utilizan al empleado un tiempo de acuerdo a una distribuci´on exponencial con media 6
+minutos.
+La tienda est´a abierta durante 8 horas al d´ıa, cuando se llega al cierre no se permite el
+ingreso de m´as clientes, sin embargo se atienden a todos los que queden esperando adentro.
+
+Dise˜ne 3 escenarios buscando mejorar la utilidad del negocio. Explique
+sus razones para el dise˜no de los escenarios e implementelos. Deje un archivo para cada
+escenario. Escenario1.py, Escenario2.py y Escenario3.py
